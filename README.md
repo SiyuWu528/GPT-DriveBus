@@ -19,6 +19,7 @@ GPT-DriveBus utilizes GPT-3.5 to drive the development of a cognitive model that
 2: You should take a look at the phase 1 and 2 models to understand the iterative developing process and run phase three to evaluate the model's performance.
 
 ## Cite
+```bibtex
 @inproceedings{wu2023AAAI,
   title={Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation},
   author={Wu, S. and Souza, R. F. and Ritter, F. E. and Lima Jr, W. T.},
@@ -28,4 +29,4 @@ GPT-DriveBus utilizes GPT-3.5 to drive the development of a cognitive model that
   pages={422--427},
   year={2023}
 }
-
+```
